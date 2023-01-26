@@ -1,3 +1,4 @@
+#super market bill generation
 from datetime import datetime
 
 name=input("Enter your name:")
